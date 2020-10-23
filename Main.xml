@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSL.xsl"?>
+
+<Company bid="emp1">
+	<Employee>
+		<ID>1</ID>
+		<Emp-name>Anish H</Emp-name>
+		<Emp-age>34</Emp-age>
+		<Emp-salary>50000</Emp-salary>
+		<Emp-emailid>test123@gmail.com</Emp-emailid>
+		<Emp-phonenum>123456789</Emp-phonenum>
+		<Emp-designation>HR</Emp-designation>
+	</Employee>
+
+	<Employee bid="emp2">
+		<ID>2</ID>
+		<Emp-name>Ananya K</Emp-name>
+		<Emp-age>46</Emp-age>
+		<Emp-salary>76000</Emp-salary>
+		<Emp-emailid>test628@gmail.com</Emp-emailid>
+		<Emp-phonenum>5673281712</Emp-phonenum>
+		<Emp-designation>Marketing</Emp-designation>
+	</Employee>
+
+	<Employee bid="emp3">
+		<ID>3</ID>
+		<Emp-name>Andrew K</Emp-name>
+		<Emp-age>51</Emp-age>
+		<Emp-salary>150000</Emp-salary>
+		<Emp-emailid>test123@gmail.com</Emp-emailid>
+		<Emp-phonenum>123456789</Emp-phonenum>
+		<Emp-designation>Manager</Emp-designation>
+	</Employee>
+
+</Company>
